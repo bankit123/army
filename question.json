@@ -1,0 +1,83 @@
+{
+    "question": [
+        {
+            "num": "1",
+            "question": "Describe an old person that you know.",
+            "questiontitle": "You should say:\n• What your relationship is to this person\n• How often you see them\n• What people think about this person\nExplain why you like them."
+        },
+        {
+            "num": "2",
+            "question": "Describe a child that you know and like a lot.",
+            "questiontitle": "You should say:\n• Who the child is\n• How you know them\n• What they enjoy doing\nExplain why you like them a lot."
+        },
+        {
+            "num": "3",
+            "question": "Describe someone who has had an important influence on your life.",
+            "questiontitle": "You should say:\n• Who the person is\n• How long you have known him/her\n• What qualities this person has\nExplain why they have had such an influence on you."
+        },{
+            "num": "4",
+            "question": "Describe a person that you think is very interesting.",
+            "questiontitle": "You should say:\n• Who this person is\n• How you met them\n• What they like to talk about\nExplain why this person is very interesting."
+        },{
+            "num": "5",
+            "question": "Describe a present or gift you have given someone.",
+            "questiontitle": "You should say:\n• Who you gave it to\n• What kind of present it was\n• How it compared to other presents you have given\nExplain why you decided to give this particular gift."
+        },{
+            "num": "6",
+            "question": "Describe your favourite teacher from school.",
+            "questiontitle": "You should say:\n• What school he/she taught at\n• What he/she looked like \n• What subject he/she taught you\nExplain why you remember this teacher so well."
+        },{
+            "num": "7",
+            "question": "Describe a present or gift someone gave you that you really liked.",
+            "questiontitle": "You should say:\n• What kind of present it was\n• Who gave it to you\n• Why you were given it\nExplain why you liked it."
+        },{
+            "num": "8",
+            "question": "Describe a happy childhood event.",
+            "questiontitle": "You should say:\n• When it happened\n• Who was involved \n• How you felt at the time\nExplain why you remember this particular occasion."
+        },{
+            "num": "9",
+            "question": "Describe photograph that you like.",
+            "questiontitle": "You should say:\n• Who is in the photograph\n• When the photograph was taken \n• Where the photograph is\nExplain why you like the photograph."
+        },{
+            "num": "10",
+            "question": "Describe a meal that you had that you remember well.",
+            "questiontitle": "You should say:\n• Where the meal was\n• Why you had the meal\n• Who you went with \nExplain why you remember this particular occasion."
+        },{
+            "num": "11",
+            "question": "Describe a meal that you ate out.",
+            "questiontitle": "You should say:\n• Where you went\n• What you ate\n• Who you went with \nExplain why you remember this meal."
+        },{
+            "num": "12",
+            "question": "Describe a sporting event you attended.",
+            "questiontitle": "You should say:\n• What kind of sport is was\n• How it compared to other events you’ve been to\n• How often it takes place\nExplain why you consider this event to be of interest."
+        },{
+            "num": "13",
+            "question": "Describe a type of exercise that you like to do.",
+            "questiontitle": "You should say:\n• What the exercise is\n• When you do it \n• Where you do it\nExplain why you like this particular exercise."
+        },{
+            "num": "14",
+            "question": "Describe a sport that you would like to try.",
+            "questiontitle": "You should say:\n• Which sport it is\n• Where you could do the sport\n• Who you could do it with\nExplain why this sport would be good to try."
+        },{
+            "num": "16",
+            "question": "Describe a TV show that you enjoy.",
+            "questiontitle": "You should say:\n• What type of show it is\n• How often it is on \n• How popular it is with other people in your country\nExplain why you like it."
+        },{
+            "num": "17",
+            "question": "Describe some good news that you recently received.",
+            "questiontitle": "You should say:\n• What the news was \n• How you got the news\n• Who else you told about it\nExplain why this was good news."
+        },{
+            "num": "18",
+            "question": "Describe your favourite part of the day.",
+            "questiontitle": "You should say:\n• What time of day this is \n• What you like to do at this time\n• Who you are usually with\nExplain why this is your favourite part of the day."
+        },{
+            "num": "19",
+            "question": "Describe your favourite book.",
+            "questiontitle": "You should say:\n• When you read the book\n• What the book is about\n• Why you read it\nExplain why this book is your favourite."
+        },{
+            "num": "20",
+            "question": "Describe a website that you visit a lot.",
+            "questiontitle": "You should say:\n• What the website it about \n• How you found the website\n• Who else you told about the website\nExplain why you visit the website a lot."
+        }
+    ]
+}
