@@ -1,0 +1,15 @@
+  
+{
+    "struc": [
+        {
+            "mainQuestion": "Opinion Questions (Agree or Disagree) ",
+            "typeQuestion": "What is your opinion?\nDo you agree or disagree?\nTo what extent do you agree or disagree?\nDirect question.",
+            "questionExample": "Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighborhood or teaching sports to younger children).",
+            "structureText1": "1- Paraphrase Question\n2- Give your opinion and outline main ideas.",
+            "structureText2": "1- Topic Sentence\n2- Explain Topic Sentence\n3- Example",
+            "structureText3": "1- Topic Sentence\n2- Explain Topic Sentence\n3- Example",
+            "structureText4": "1- Summary of main points and opinion"
+ 
+        }
+    ]
+}
