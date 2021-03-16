@@ -1,6 +1,6 @@
   
 {
-    "struc": [
+    "vocab": [
         {
             "mainQuestion": "Opinion Questions (Agree or Disagree) ",
             "typeQuestion": "What is your opinion?\nDo you agree or disagree?\nTo what extent do you agree or disagree?\nDirect question.",
@@ -9,6 +9,42 @@
             "structureText2": "1- Topic Sentence\n2- Explain Topic Sentence\n3- Example",
             "structureText3": "1- Topic Sentence\n2- Explain Topic Sentence\n3- Example",
             "structureText4": "1- Summary of main points and opinion"
+ 
+        },  {
+            "mainQuestion": "Advantages and Disadvantages Questions",
+            "typeQuestion": "Discuss the advantages and disadvantages.\nWhat are the advantages and disadvantages?",
+            "questionExample": "Technology is being used more and more in education.\nDiscuss the advantages and disadvantages.",
+            "structureText1": "1- Paraphrase Question\n2- Outline Main Points",
+            "structureText2": "1- State Two Advantages\n2- Expand/Explain First Advantage\n3- Expand/Explain Second Advantage\n3- Example",
+            "structureText3": "1- State Two Disadvantages\n2- Expand/Explain First Disadvantage\n3- Expand/Explain Second Disadvantage\n3- Example",
+            "structureText4": "1- Summary of Main Points"
+ 
+        },  {
+            "mainQuestion": "Discuss Both Views Question (Discussion Essay)",
+            "typeQuestion": "Discuss both points of view and give your opinion.",
+            "questionExample": "Technology is being used more and more in education. Some people say that this is a positive trend, while others argue that it is leading to negative consequences.\n\nDiscuss both sides of this argument and then give your own opinion.",
+            "structureText1": "1- Paraphrase Question and/or state both viewpoints.\n2- Thesis Statement\n3- Outline Sentence",
+            "structureText2": "1- State first viewpoint\n2- Discuss first viewpoint\n3- Reason why you agree or disagree with viewpoint\n4- Example to support your view",
+            "structureText3": "1- State second viewpoint\n2- Discuss second viewpoint\n3- Reason why you agree or disagree with viewpoint\n4- Example to support your view",
+            "structureText4": "Sentence 1- Summary\nSentence 2- State which one is better or more important"
+ 
+        },  {
+            "mainQuestion": "Problem and Solution Questions",
+            "typeQuestion": "Problem and solution.\nCause and solution.",
+            "questionExample": "Students are becoming more and more reliant on technology.\nWhat are some of the problems associated with reliance on computers, and what are some of the possible solutions?",
+            "structureText1": "1- Paraphrase Question\n2- Outline Sentence",
+            "structureText2": "1- State Problems\n2- Explain First Problem\n3- Explain Second Problem\n4- Example of Second Problem",
+            "structureText3": "1- State Solution\n2- Explain First Solution\n3- Explain Second Solution\n4- Example of Second Solution",
+            "structureText4": "1- Summary"
+ 
+        },  {
+            "mainQuestion": "Two-Part Questions",
+            "typeQuestion": "There will normally be a statement and they will then ask you to answer to separate questions.",
+            "questionExample": "As most people spend a major part of their adult life at work, job satisfaction is an important element of individual wellbeing.\nWhat factor contributes to job satisfaction?",
+            "structureText1": "1- Paraphrase Question\n2- Outline Sentence (mention both questions)",
+            "structureText2": "1- Answer first question directly\n2- Explain why\n3- Further explain\n4- Example",
+            "structureText3": "1- Answer second question directly\n2- Explain why\n3- Further explain\n4- Example",
+            "structureText4": "1- Summary"
  
         }
     ]
